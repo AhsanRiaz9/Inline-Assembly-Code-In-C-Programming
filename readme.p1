@@ -1,0 +1,11 @@
+How to run the compile and run the program:
+1. Open the Code Blocks
+2. File -> Open (the file) p1_64.cpp
+3. Click on Run Button below the menu bar
+4. Now open the CMD
+5. change the directory where file is p1_64.cpp is placed (e.g if in D drive, then type d: )
+6. Use CD command to change the directory where p1_64.exe is placed
+7. type p1_64.exe arg1 arg2 
+e.g p1_64.exe 8 2
+
+Now program will be run using cmd arguments. 
